@@ -1,0 +1,13 @@
+*.o
+dbsetup
+whereami
+isnewturn
+join
+joinplayer
+startwaiting
+getoppdecision
+license
+waitingplayers
+testlogin
+play
+stopwaiting
